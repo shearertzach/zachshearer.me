@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Pursuing my Computer Science Degree",
+        "year": 2023,
+        "date": "08-25-2020",
+        "body": [
+            {"header": "Why Computer Science?",
+            "body": [
+                "The truth is, I never anticipated ending up in this field. I spent my entire childhood with my eyes glued to anything with a screen - video games, computers, and TVs - and these were among the few things that genuinely captivated me. During middle school and high school, I started building a reputation as the 'guy who knew everything about computers.' After that, one thing led to another, and my career in software development, coding, and tinkering with computers unfolded as the result of an impulsive decision I made; driven by my realization of my own skills."
+            ]}
+        ]
+    }
+]
